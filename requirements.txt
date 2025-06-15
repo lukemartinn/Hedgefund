@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-yfinance
-langchain
-openai
-langchain-community
